@@ -1,0 +1,18 @@
+# ============================================================================
+# SMS Sender - Python Dependencies
+# ============================================================================
+
+# SMPP Client Library
+smpplib>=2.2.4
+
+# Configuration validation (optional but recommended)
+jsonschema>=4.23.0
+
+# Timezone support
+pytz>=2024.1
+
+# Environment variable loading (optional)
+python-dotenv>=1.0.1
+
+# Production WSGI utilities (optional for future extensions)
+setuptools>=70.0.0
